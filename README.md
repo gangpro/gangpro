@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/IBM Watson-BE95FF?style=flat-square&logo=IBM Watson&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a>  
 <!--
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
   <br>
   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
